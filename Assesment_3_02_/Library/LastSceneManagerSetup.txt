@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Scene03MainMenuSplashScreen.unity
+- path: Assets/Scenes/Scane04MainActyvitySplashScreen.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
